@@ -13,7 +13,8 @@ index section titles are significant ('specialsections').
 
 
 
-= Titre 1
+Titre 1
+=================
 Lorem.
 sdqsfqsfqsfd.
 sqsfqsfqfs
@@ -21,7 +22,8 @@ sqsfqsfqfs
 == Titre n2
 == Titre n2
 
-= Titre 1
+Titre 2
+=================
 Lorem.
 sdqsfqsfqsfd.
 sqsfqsfqfs
