@@ -1,3 +1,12 @@
+# Liens utiles:
+Readme.md syntax:
+
+https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html
+
+ascii doc:
+
+http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#section-titles
+
 The Article Title
 =================
 Author's Name <authors@email.address>
